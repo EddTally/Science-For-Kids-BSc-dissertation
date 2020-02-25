@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="200mm"
+   viewBox="0 0 300 200"
+   version="1.1"
+   id="svg3748"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Login Screen.svg"
+   inkscape:export-filename="E:\EDD\Documents\University\Year3\Final Year Project\Design\Login Screen.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs3742" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="773.81552"
+     inkscape:cy="398.49119"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3745">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="15.119047"
+       y="109.52381"
+       id="text3752"><tspan
+         sodipodi:role="line"
+         id="tspan3750"
+         x="15.119047"
+         y="109.52381"
+         style="font-size:6.35px;stroke-width:0.26458332;">Login Screen</tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.26268664"
+       id="rect3797"
+       width="104.32143"
+       height="19.276785"
+       x="96.837494"
+       y="172.11674" />
+    <rect
+       style="fill:#b3b3b3;stroke-width:0.26221034"
+       id="rect3797-2"
+       width="103.94347"
+       height="19.276785"
+       x="97.215469"
+       y="200.76721" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3816"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-10.96131,94.354169)"><flowRegion
+         id="flowRegion3818"><rect
+           id="rect3820"
+           width="231.42859"
+           height="52.857147"
+           x="161.42857"
+           y="308.76266" /></flowRegion><flowPara
+         id="flowPara3822">Username:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3824"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.2916674,87.550594)"><flowRegion
+         id="flowRegion3826"><rect
+           id="rect3828"
+           width="280.28568"
+           height="60.714516"
+           x="141.42857"
+           y="437.33408" /></flowRegion><flowPara
+         id="flowPara3830">Password:</flowPara></flowRoot>    <rect
+       style="fill:#b3b3b3;stroke-width:0.26458332"
+       id="rect3832"
+       width="74.083336"
+       height="18.520834"
+       x="128.5119"
+       y="243.32738" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3834"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,97)"><flowRegion
+         id="flowRegion3836"><rect
+           id="rect3838"
+           width="228.57138"
+           height="44.285664"
+           x="760"
+           y="584.47693" /></flowRegion><flowPara
+         id="flowPara3840">Login</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3842"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-49.892858,89.818452)"><flowRegion
+         id="flowRegion3844"><rect
+           id="rect3846"
+           width="302.85715"
+           height="64.285713"
+           x="752.85712"
+           y="591.61981" /></flowRegion><flowPara
+         id="flowPara3848">Login</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3850"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,28.348215,104.55953)"><flowRegion
+         id="flowRegion3852"><rect
+           id="rect3854"
+           width="852.85712"
+           height="61.428562"
+           x="270"
+           y="85.905518" /></flowRegion><flowPara
+         id="flowPara3858">Science for kids Wordart IMG</flowPara></flowRoot>    <rect
+       style="fill:#b3b3b3;stroke-width:0.26458332"
+       id="rect4087"
+       width="63.5"
+       height="16.252975"
+       x="21.544641"
+       y="268.65176" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4089"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,6.4255952,127.2381)"><flowRegion
+         id="flowRegion4091"
+         style="font-size:32px"><rect
+           id="rect4093"
+           width="207.14285"
+           height="57.142857"
+           x="101.42857"
+           y="548.76263"
+           style="font-size:32px" /></flowRegion><flowPara
+         id="flowPara4095">Go Back</flowPara></flowRoot>  </g>
+</svg>

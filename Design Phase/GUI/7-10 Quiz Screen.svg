@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="200mm"
+   viewBox="0 0 300 200"
+   version="1.1"
+   id="svg5065"
+   sodipodi:docname="7-10 Quiz Screen.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <defs
+     id="defs5059" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="681.41172"
+     inkscape:cy="374.51515"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5062">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5067"
+       style="font-style:normal;font-weight:normal;font-size:26.66666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.2659456,0,0,0.26458333,2.9380886,95.866071)"><flowRegion
+         id="flowRegion5069"
+         style="font-size:26.66666794px"><rect
+           id="rect5071"
+           width="365.3118"
+           height="50.000004"
+           x="61.42857"
+           y="34.476944"
+           style="font-size:26.66666794px" /></flowRegion><flowPara
+         id="flowPara5073">Quiz Screen for ages 7-10</flowPara></flowRoot>    <rect
+       style="fill:#e6e6e6;stroke-width:0.26458332"
+       id="rect5075"
+       width="269.875"
+       height="162.15178"
+       x="17.386906"
+       y="124.64285" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.26458332"
+       id="rect5077"
+       width="108.1012"
+       height="58.208332"
+       x="95.627968"
+       y="143.91965" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5079"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,97)"><flowRegion
+         id="flowRegion5081"><rect
+           id="rect5083"
+           width="217.14285"
+           height="167.14285"
+           x="450"
+           y="220.19124" /></flowRegion><flowPara
+         id="flowPara5085">IMG to go along with question</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;stroke-width:0.26458332"
+       id="rect5087"
+       width="222.25"
+       height="52.538689"
+       x="43.089287"
+       y="216.49107" />
+    <rect
+       style="fill:#cccccc;stroke-width:0.26458332"
+       id="rect5089"
+       width="64.633926"
+       height="29.482143"
+       x="55.108925"
+       y="230.09821" />
+    <rect
+       style="fill:#cccccc;stroke-width:0.26458332"
+       id="rect5089-6"
+       width="64.633926"
+       height="29.482143"
+       x="124.50536"
+       y="230.09821" />
+    <rect
+       style="fill:#cccccc;stroke-width:0.26458332"
+       id="rect5089-8"
+       width="64.633926"
+       height="29.482143"
+       x="193.37254"
+       y="230.09821" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 203.35119,250.50893 7.9375,26.45833"
+       id="path5116"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5118"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-83.532736,97.755954)"><flowRegion
+         id="flowRegion5120"
+         style="font-size:21.33333397px"><rect
+           id="rect5122"
+           width="852.85712"
+           height="58.571453"
+           x="582.85712"
+           y="684.47693"
+           style="font-size:21.33333397px" /></flowRegion><flowPara
+         id="flowPara5124">Multiple choice questions with a well done notification after getting it correct, once chosen it will automatically show the next question.</flowPara></flowRoot>    <rect
+       style="fill:#cccccc;stroke-width:0.28094673"
+       id="rect5126"
+       width="11.339286"
+       height="127"
+       x="270.10184"
+       y="137.11607" />
+    <ellipse
+       style="fill:#008080;stroke-width:0.18898809"
+       id="path5128"
+       cx="275.46909"
+       cy="149.02232"
+       rx="4.9892602"
+       ry="4.7247028" />
+    <ellipse
+       style="fill:#008080;stroke-width:0.18898809"
+       id="path5128-0"
+       cx="275.54465"
+       cy="159.0387"
+       rx="4.9892602"
+       ry="4.7247028" />
+    <ellipse
+       style="fill:#008080;stroke-width:0.18898809"
+       id="path5128-8"
+       cx="275.16663"
+       cy="169.24403"
+       rx="4.9892602"
+       ry="4.7247028" />
+    <ellipse
+       style="fill:#008080;stroke-width:0.18898809"
+       id="path5128-9"
+       cx="275.54465"
+       cy="179.44942"
+       rx="4.9892602"
+       ry="4.7247028" />
+    <ellipse
+       style="fill:#008080;stroke-width:0.18898809"
+       id="path5128-98"
+       cx="275.54462"
+       cy="190.41071"
+       rx="4.9892602"
+       ry="4.7247028" />
+    <ellipse
+       style="fill:#008080;stroke-width:0.18898809"
+       id="path5128-2"
+       cx="275.16666"
+       cy="202.50595"
+       rx="4.9892602"
+       ry="4.7247028" />
+    <ellipse
+       style="fill:#008080;stroke-width:0.18898809"
+       id="path5128-22"
+       cx="275.16666"
+       cy="213.92062"
+       rx="4.9892602"
+       ry="4.7247028" />
+    <ellipse
+       style="fill:#008080;stroke-width:0.18898809"
+       id="path5128-85"
+       cx="275.16666"
+       cy="225.94011"
+       rx="4.9892602"
+       ry="4.7247028" />
+    <ellipse
+       style="fill:#008080;stroke-width:0.18898809"
+       id="path5128-25"
+       cx="275.16666"
+       cy="236.90178"
+       rx="4.9892602"
+       ry="4.7247028" />
+    <ellipse
+       style="fill:#008080;stroke-width:0.18898809"
+       id="path5128-3"
+       cx="275.54465"
+       cy="248.99702"
+       rx="4.9892602"
+       ry="4.7247028" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 273.27677,197.97024 251.73214,172.64583"
+       id="path5214"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5216"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,97)"><flowRegion
+         id="flowRegion5218"
+         style="font-size:21.33333397px"><rect
+           id="rect5220"
+           width="171.42851"
+           height="95.714272"
+           x="814.28571"
+           y="184.47694"
+           style="font-size:21.33333397px" /></flowRegion><flowPara
+         id="flowPara5222">Tally of correct questions /X Number </flowPara></flowRoot>    <rect
+       style="fill:#ffffff;stroke-width:0.26458332"
+       id="rect5224"
+       width="54.806545"
+       height="19.654762"
+       x="22.678572"
+       y="134.09225" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5226"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0476191,101.53571)"><flowRegion
+         id="flowRegion5228"
+         style="font-size:21.33333397px"><rect
+           id="rect5230"
+           width="207.14287"
+           height="74.28569"
+           x="90"
+           y="131.61978"
+           style="font-size:21.33333397px" /></flowRegion><flowPara
+         id="flowPara5232">Back to topics screen button </flowPara></flowRoot>  </g>
+</svg>

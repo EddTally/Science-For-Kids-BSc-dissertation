@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="200mm"
+   viewBox="0 0 300 200"
+   version="1.1"
+   id="svg4979"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Learning Screen.svg">
+  <defs
+     id="defs4973" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="583.28379"
+     inkscape:cy="397.50989"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4976">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4981"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.4017857,97.377976)"><flowRegion
+         id="flowRegion4983"
+         style="font-size:24px"><rect
+           id="rect4985"
+           width="221.42857"
+           height="37.14286"
+           x="71.428574"
+           y="23.048374"
+           style="font-size:24px" /></flowRegion><flowPara
+         id="flowPara4987">Learning Screen</flowPara></flowRoot>    <rect
+       style="fill:#cccccc;stroke-width:0.26458332"
+       id="rect4989"
+       width="273.65479"
+       height="169.33333"
+       x="13.607142"
+       y="119.72916" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4993"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,97)"><flowRegion
+         id="flowRegion4995"><rect
+           id="rect4997"
+           width="277.14285"
+           height="42.857143"
+           x="107.14286"
+           y="110.19123" /></flowRegion><flowPara
+         id="flowPara4999">Topic Topic Title</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5001"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0.75595238,95.866071)"><flowRegion
+         id="flowRegion5003"><rect
+           id="rect5005"
+           width="357.14285"
+           height="90"
+           x="101.42857"
+           y="124.47694" /></flowRegion><flowPara
+         id="flowPara5009">Topic Title</flowPara></flowRoot>    <rect
+       style="fill:#f2f2f2;stroke-width:0.26458332"
+       id="rect5013"
+       width="87.690468"
+       height="94.872025"
+       x="184.07443"
+       y="156.01488" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5017"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,163.28572,107.96131)"><flowRegion
+         id="flowRegion5019"><rect
+           id="rect5021"
+           width="161.42857"
+           height="208.57143"
+           x="210"
+           y="327.33408" /></flowRegion><flowPara
+         id="flowPara5023">IMG</flowPara></flowRoot>    <rect
+       style="fill:#f2f2f2;stroke-width:0.26458332"
+       id="rect5027"
+       width="156.86011"
+       height="84.666664"
+       x="20.032738"
+       y="162.0625" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5029"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,3.7797619,108.33929)"><flowRegion
+         id="flowRegion5031"><rect
+           id="rect5033"
+           width="385.71429"
+           height="198.57143"
+           x="190"
+           y="307.33408" /></flowRegion><flowPara
+         id="flowPara5035">Fun Informative Subject Matter</flowPara></flowRoot>    <rect
+       style="fill:#f2f2f2;stroke-width:0.26458332"
+       id="rect5037"
+       width="76.351196"
+       height="18.898809"
+       x="201.46132"
+       y="262.98215" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5039"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.0238095,97)"><flowRegion
+         id="flowRegion5041"><rect
+           id="rect5043"
+           width="251.42854"
+           height="114.28569"
+           x="811.42859"
+           y="643.0484" /></flowRegion><flowPara
+         id="flowPara5045">Next Page</flowPara></flowRoot>    <rect
+       style="fill:#000000;stroke-width:0.13829738"
+       id="rect5047"
+       width="3.4017806"
+       height="77.107132"
+       x="170.08922"
+       y="166.29578" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 173.491,243.40291 -9.44934,19.20126"
+       id="path5049"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5051"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,34.395833,97)"><flowRegion
+         id="flowRegion5053"
+         style="font-size:21.33333397px"><rect
+           id="rect5055"
+           width="110.00004"
+           height="35.714294"
+           x="388.57144"
+           y="631.61981"
+           style="font-size:21.33333397px" /></flowRegion><flowPara
+         id="flowPara5057">Scroller</flowPara></flowRoot>  </g>
+</svg>
